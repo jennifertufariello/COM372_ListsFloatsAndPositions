@@ -1,0 +1,45 @@
+Column Questions:
+1. When I entered "float right", the boxes moved to the same line. testDiv1 moved up and to the right of testDiv2.
+2. When I entered "float left", testDiv1 moved to the left of testDiv2. They both remained on the same line.
+3. When I moved testDiv1 to the right, and testDiv2 to the left, both divs switched places. testDiv2 is now on the left, and testDiv1 is now on the right.
+4. When I floated both divs to the left, they both moved to the left. When I increased the width of testDiv1 to 60%, it became more rectangular and bigger. It now floats above testDiv2.
+5. The largest percent setting would be 40% in order to have both divs on equally sized columns.
+6. The text size of the divs changes in accordance with the browser when it is resized.
+7. When I increased the margin settings to 3em, the largest percentage that I could use for both divs to be on the same line was 35%.
+8. I added in testDiv3 and entered the same properties as I did for testDiv1 and testDiv2. I entered "float left". The third div moved below the first 2 divs, and to the left.
+9. I set the width to 20% and I was able to formulate 3 columns that were equally sized.
+10. I set testDiv1 to 15%, and I set testDiv1 and testDiv2 to 25% each. This allowed for a 25%/75% overall appearance on the page.
+11. I set testDiv1 and testDiv3 to 12%, and I set testDiv2 to 36%.
+
+List Questions:
+1.When I set the "list-style" property to the value "circle inside", the bullet points became open circles.
+2. When I set the "list-style" property to the value "circle outside", the bullet point list shifted to the left a bit.
+3. When I set the "list-style" property to the value "square", the bullet list became squares.
+4. When I set the "list-style" property to the value "none", the bullet list disappeared.
+5. I inserted the border property and added a 2px and a 2px for measure. I set the background-color to red. The red block bleed off the page.
+6. After setting the property "padding" to the "value" of 10px, I noticed that the text goes back to normal.
+7. After setting the padding "property" to the "value" 10px, and the padding-left "property" to 40px, the list shifted to the right.
+8. After deleting the property padding-left, and setting the padding property to the value of 0, I noticed that the text shifted down and to the left a bit.
+2nd part of List Questions:
+1. When I added the border "property" to the "value" of 1px, the "property" color to the "value" of black, and the "property" width to the "value" thick, the result was a border between each list item.
+2. When I set the "property" padding to the "value" of 10px, the result was increased space between all list items.
+3. When I set the "property" width to the "value" of 200px, the width of the border decreased significantly.
+4. When I set the "property" margin to the "value" of 20px, the space between the list item borders increased and the list length seemed to increase as well.
+5. When I set the "property" display to the "value" of inline, the list items all moved to the same line.
+6. When I set the "property" display to the "value" of block, the list items changed back to their original form of vertical structure.
+7. When I set the "property" display to the "value" of inline-block, the list items returned to horizontal form on the same line.
+
+Positions Questions:
+1. When I set the property "position" to the value "relative", I did not see any visible changes compared to the original format.
+2. When I added the property "left" to the "value" of 100px, I noticed that the testDivPosition moved to the right.
+3. When I removed the property "left", added in "right", and kept the value of "100px", the text block shifted to the left of the page and got a bit cut off.
+4. When I added the property "top" and kept the value of "100px", a space above the block emerged. The text block shifted down a bit as well.
+5.When I kept the top property in place and added a "left" property with the value of "200px", I noticed that the text block shifted to the right. There was still space above the text box.
+6. When I removed both the "top" and "left" properties, but kept the "position" property, the text block shifted back to normal at the left of the page. The white space above the text disappeared.
+7. When I set the "position" property to the value of "absolute", the text block shifted to the top left corner of the ruler. There was also no white space above the text as a result.
+8. When I set the "top" property to the value of "0px", the text box shifted to the top left corner of the webpage.
+9. When I kept the "top" property to the value of "0px" and I added a "right" property to the value of "0px", the text block shifted to the top right corner of the webpage.
+10. When I kept the "top"property to the value of "0px", and I changed the "right" property to the value of "100px", I saw that the text block shifted to the left a bit.
+11. When I removed the "top" property, I noticed that the text block shifted down and to the right on the page.
+12. When I added a property "bottom" with the value of "0px", I noticed that the text block moved up a bit, but not significantly.
+13. When I increased the property "bottom" to the value of "50px", I noticed that the text block moved up even more than before.
